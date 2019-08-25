@@ -1,2 +1,2 @@
 # ProgramsByJp
-These are the programs written by Jaya Prakash Reddy
+These are the programs written by Jaya Prakash Reddy in 'C' , 'JAVA' , 'PYTHON' Languages.
