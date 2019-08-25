@@ -1,0 +1,3 @@
+This is a simple game where we need to find the 3 cosective boxes out of 6 which were placed consecutiely.
+Select ur choice such that there exist 3 consecutive boxes out of 6.
+Enter your choice and should not repeat the same number.

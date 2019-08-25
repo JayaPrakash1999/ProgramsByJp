@@ -1,0 +1,10 @@
+A person wanted to withdraw X rupees and Y paise from the 
+bank. But cashier made a mistake and gave him Y rupees and 
+X paise. Neither the person nor the cashier noticed that. 
+After spending {20}(s as a variable should be given ny user) paise, the person counts the money. And 
+to his surprise, he has double the amount he wanted to 
+withdraw. Find X and Y.
+
+
+X=i
+Y=j

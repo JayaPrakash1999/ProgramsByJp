@@ -1,0 +1,11 @@
+About the Calculator Game:
+	This game is about calculations,i.e we need to give correct answer for generated Random questions to win the game.
+	It includes 3 Modes out of which you need to select one among three : 1.Easy
+			     			      			      2.Medium
+			        		      			      3.Hard
+	And we need to start from level-0 and If you reach score "5" you will be entered into 1st level.
+ 	If you reach score "10" you will be entered into 2nd level.
+ 	If you reach score "15" you will be entered into 3rd level.
+	Reaching the score "20" you will win the game.
+	If we give wrong answer, the game ends and display the score along with the Name.
+	And we have a choice to restart the game or exit from the game.

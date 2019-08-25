@@ -1,0 +1,4 @@
+ABOUT:
+These 2 Python programs are basic encryption and decryption.
+In Final_encrypt.py: You are suposed to remember the Random Number, and enter the message which want to encrypt and copy the encrypted message.
+In final_decrypt.py: First we need to enter the Random Number which was generated i final_encrypt.py and then paste the encrypted message and you will get Decrypted message.

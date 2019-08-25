@@ -1,0 +1,3 @@
+This program is a simple game to guess the random Number which was generated and you need to guess the random Number and if you need you can take hint.
+First we need to enter the level as easy, medium or Hard.
+Then if we want to get a hint for (-) 20 points enter yes when it is asked.
